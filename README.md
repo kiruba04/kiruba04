@@ -8,7 +8,7 @@ Web Developer, MERN STACK, AI &ML
 
 I developed a fully functional website tailored to meet the company's specific requirements, ensuring a seamless and engaging online presence. My journey with a small start up has not only strengthened my expertise in full-stack development but also allowed me to deliver real-world solutions that align with business needs
 
-*   🌍  I'm based in Coimbatore
+*   🌍  I'm working in Coimbatore
 *   ✉️  ✉️ Feel free to reach out to me at skirubakaran40@gmail.com for collaborations!(mailto:skirubakaran40@gmail.com)
 *   🧠  I'm learning Angular,Spring boot
 *   🤝  I'm open to collaborating on AI & ML Project with web page
